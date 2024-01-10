@@ -1,31 +1,5 @@
 {
-    "jobTitle": [
-        {
-            "title": "I am a Business Owner",
-            "color": "rgb(57, 153, 0)"
-        },
-        {
-            "title": "I am a creator ",
-            "color": "rgb(157, 100, 0)"
-        },
-        {
-            "title": "I am Ntokozo",
-            "color": "rgb(153, 76, 150)"
-        },
-        {
-            "title": "I am an artist ",
-            "color": "rgb(0, 172, 230)"
-        }    
-    ],
-    "about": [{
-
-        "title": "I am a self-motivated, enthusiastic individual.Being an independent person I have the ability to work in harmony with team members.My personal trait is characterized by having structure which imposes the best outcome, I am ready to make my mark and start the process of cementing my future and career path."
-    },
-    {
-        "image":"https://drive.google.com/uc?id=1jllZnOfng33AE1y3o0bsofBCnoziGl8D"
-    }
-        
-    ],
+   
     "education": [
         {
             "id": 1,
@@ -57,32 +31,28 @@
         }
        
     ],
-    "work experience":[{
+    "work":[{
         "id":1,
         "time": 2019, "-" :2020,
         "name": "The Body Shop",
-        "description":"",
+        "description":"Retail",
         "image": "https://drive.google.com/file/d/1LQFJYHLhRlT9R0JR347fIVS6UocKK5rg/view?usp=drive_link"
     },{
         "id":2,
         "time": 2020, "-" :2022,
         "name": "Astron Energy Refinery",
-        "description":"",
+        "description":"Learnership",
         "image": "https://drive.google.com/file/d/1GXs62BbbTqucwifq7ofoEtG4l3nsZ0Rc/view?usp=drive_link"
     },
     {
         "id":3,
         "time": 2023,
         "name": "BAB Developers",
-        "description": "",
+        "description": "Learnership",
         "image":"https://drive.google.com/file/d/1xEXOMX-AS9BFFARqUzc_8WDh09Cwp6oJ/view?usp=drive_link"
     }
 ],
     "skills": [
-        {
-            "title": "People Skills",
-            "experience": "Multiply Community services and Retail and Network Marketing Business"
-        },
         {
             "title": "Html"
            
@@ -101,6 +71,9 @@
         {
             "title": "Vue-JS"
             
+        },
+        {
+            "title": "People Skills"
         },
         {
             "title": "Fire-fighting"
@@ -122,20 +95,20 @@
         {   "id": 2,
             "name": "Phinda",
             "surname": "Fortuin",
-            "quotes": "I have no doubt that Ntokozo Sithebe possesses the qualities necessary for success in her future endeavours. Her passion for learning, their ability to adapt and overcome challenges, and her commitment to excellence make her an outstanding individual. I wholeheartedly recommend Ntokozo for any academic or professional pursuit she elects to embark on",
+            "quotes": "I have no doubt that Ntokozo Sithebe possesses the qualities necessary for success in her future endeavours. Her passion for learning, her ability to adapt and overcome challenges, and her commitment to excellence make her an outstanding individual. I wholeheartedly recommend Ntokozo for any academic or professional pursuit she elects to embark on",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
         {   "id": 3,
             "name": "Simamkele",
             "surname": "Tancu",
-            "quotes": "I highly recommend Ntokozo Sithebe as a software developer. Her technical expertise, commitment to quality, and strong communication skills make her an asset to any team. I look forward to the opportunity to work with them again in the future",
+            "quotes": "I highly recommend Ntokozo Sithebe as a software developer. Her technical expertise, commitment to quality, and strong communication skills make her an asset to any team. I look forward to working with her again in the future",
             "profile": "https://drive.google.com/uc?id=1vEgLYUnHGzqLdiuCNZeDx4Dh_jPYnyO5"
         },
         {   "id": 4,
             "name": "Thimna",
             "surname": "Alam",
             "quotes": "Ntokozo is the most goal driven person I have ever met. She is always willing to learn - curious in other words. Her brightest feature is her boldness - she is never afraid to speak her mind, her truth and her timing at that is amazing. Among all her amazing features she is well- mannered, respectful of her surroundings and focused.",
-          "profile": ""
+          "profile": "https://drive.google.com/uc?id=1dy6C4aqkfAFnH4MfboWz-5uv1s-2qdA_"
         }, 
         {   "id": 5,
             "name": "Zubaidah",
@@ -154,7 +127,7 @@
     "projects":[
         {
             "name": "Mobicare",
-            "description": "recreating a website",
+            "description": "Recreating a website",
             "gitHub": "https://github.com/ntokozo-sithebe/Mobicare.git",
             "netlify": "https://sunny-sunburst-8bbf07.netlify.app/"
         },
@@ -172,19 +145,19 @@
         },
         {
             "name": "Calculator",
-            "description": "A calculator",
+            "description": "Creating a calculator - using HTML,CSS and Javascript",
             "gitHub": "https://github.com/ntokozo-sithebe/my_Calculator.git",
             "netlify": "https://app.netlify.com/sites/beamish-cranachan-1fbe34/"
         },
         {
             "name": "Keyboard",
-            "description": "A Keyboard",
+            "description": "Creating a keyboard - using HTML and CSS",
             "gitHub": "https://github.com/ntokozo-sithebe/My-Keyboard.git",
             "netlify": "https://fastidious-beignet-6ed204.netlify.app/"
         },
         {
-            "name": "Fine SKN e-commerce",
-            "description": "Skin-care E-commerce - using HTML, CSS and Javascript",
+            "name": "Fine SKN E-commerce",
+            "description": "Skin-care e-commerce - using HTML, CSS and Javascript",
             "gitHub": "https://github.com/ntokozo-sithebe/fineSkn_--ecommerce.git",
             "netlify": "https://silver-lebkuchen-2176b2.netlify.app/"
         }
