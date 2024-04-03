@@ -52,6 +52,14 @@
         "description": "Learnership",
         "more":"Chemical Operations",
         "image":"https://i.ibb.co/nQ4r1Ch/BAB-Developers.jpg"
+    },
+    {
+        "id":4,
+        "time": 2023 ,"-" : 2024,
+        "name": "Life Choices",
+        "description": "Internship",
+        "more":"Software Development",
+        "image":"https://i.ibb.co/nQ4r1Ch/BAB-Developers.jpg"
     }
 ],
     "skills": [
@@ -105,7 +113,7 @@
             "surname": "Fortuin",
             "title":"Colleague",
             "quotes": "I have no doubt that Ntokozo Sithebe possesses the qualities necessary for success in her future endeavours. Her passion for learning, her ability to adapt and overcome challenges, and her commitment to excellence make her an outstanding individual. I wholeheartedly recommend Ntokozo for any academic or professional pursuit she elects to embark on",
-            "profile": "https://i.ibb.co/LZ3HL27/image-1.jpg"
+            "profile": "https://i.ibb.co/rtgGxw6/T02-LW4-RMXJQ-U05-UCLNEPA5-670e709d67d9-72.jpg"
         },
         {   "id": 3,
             "name": "Simamkele",
